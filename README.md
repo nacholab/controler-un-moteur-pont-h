@@ -1,2 +1,5 @@
 # controler-un-moteur-pont-h
-Contrôler un moteur avec pont H
+Arduino Project : Contrôler un moteur avec un pont H
+
+#Youtube tutorial : https://youtu.be/QsRocjy8CEM
+
